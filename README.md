@@ -14,8 +14,8 @@
 - AudioSource + AudioClip system for sound management.  
 
 ## 📸 Screenshot
-![Gameplay Screenshot](PreviewImg1.png)
 ![Gameplay Screenshot](PreviewImg2.png)
+![Gameplay Screenshot](PreviewImg1.png)
 
 
 ---
